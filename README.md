@@ -6,3 +6,4 @@ These were written for my personal use to streamline the commit process on the c
 ### Future features
 - Add command prompts for Windows
 - Add more git processes to functions
+ Checking in!
